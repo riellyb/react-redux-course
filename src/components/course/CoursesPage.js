@@ -8,5 +8,5 @@ class CoursesPage extends React.Component {
 			</div>
 		);
 	} 
-};
+}
 export default CoursesPage;
